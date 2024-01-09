@@ -7,3 +7,6 @@ li{
     display: inline;
     margin-right: 10px;
 }
+nav li{
+    border: 10px powderblue;
+}

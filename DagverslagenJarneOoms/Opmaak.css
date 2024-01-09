@@ -18,5 +18,8 @@ nav {
 nav a{
     color: aqua;
 }
+nav a:visited{
+    color: pink;
+}
 
 

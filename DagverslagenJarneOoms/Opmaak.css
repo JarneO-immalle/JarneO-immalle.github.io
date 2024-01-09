@@ -15,5 +15,8 @@ hr{
 nav {
     float: right;
 }
+nav a{
+    color: aqua;
+}
 
 

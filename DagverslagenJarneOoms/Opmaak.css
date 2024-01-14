@@ -13,12 +13,15 @@ hr{
 }
 
 nav {
+    margin: 30px auto 30px auto;
     float: right;
 }
 nav a{
     color: darkblue;
     font-weight: bold;
     text-decoration: none;
+    font-size: 18px;
+    margin-right: 10px;
     
 }
 nav a:visited{

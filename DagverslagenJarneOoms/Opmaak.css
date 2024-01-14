@@ -16,10 +16,19 @@ nav {
     float: right;
 }
 nav a{
-    color: aqua;
+    color: darkblue;
+    font-weight: bold;
+    text-decoration: none;
+    
 }
 nav a:visited{
-    color: pink;
+    color: darkblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+article{
+    min-height: 500px;
 }
 
 

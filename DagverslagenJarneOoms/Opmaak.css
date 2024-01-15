@@ -15,6 +15,7 @@ hr{
 nav {
     margin: 30px auto 30px auto;
     float: right;
+    font-family: Arial, Helvetica, sans-serif;
 }
 nav a{
     color: darkblue;
@@ -32,6 +33,14 @@ nav a:visited{
 
 article{
     min-height: 500px;
+}
+
+.maandag-ochtend{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.maandag-ochtend img{
+    float: left;
 }
 
 

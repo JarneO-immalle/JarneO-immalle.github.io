@@ -38,7 +38,8 @@ nav a:visited{
 }
 
 article{
-    min-height: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .maandag-ochtend{
@@ -48,6 +49,7 @@ article{
 
 .Afbeelding-Maandag{
     display: flex;
+    padding-left: 10px;
 }
 
 

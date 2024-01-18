@@ -56,4 +56,18 @@ article{
     display: flex;
 }
 
+.link-tekst{
+    text-decoration: underline;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+}
 
+.link-tekst:hover{
+    color: darkblue;
+    font-weight: bold;
+}
+
+.foto-donderdag{
+    display: flex;
+}

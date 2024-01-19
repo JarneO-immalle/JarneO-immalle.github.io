@@ -50,10 +50,13 @@ article{
 
 .foto-dinsdag{
     display: flex;
+    padding-left: 10px;
 }
+
 
 .foto-woensdag{
     display: flex;
+    padding-left: 10px;
 }
 
 .link-tekst{
@@ -70,4 +73,10 @@ article{
 
 .foto-donderdag{
     display: flex;
+    padding-left: 10px;
+}
+
+.foto-vrijdag{
+    display: flex;
+    padding-left: 10px; 
 }

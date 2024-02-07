@@ -94,3 +94,19 @@ article{
 .foto-start{
     display: flex;
 }
+
+.Contact{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    margin: 10px ;
+    border-radius: 12px;
+    padding: 10px;
+    border: solid 5px darkblue;
+    background-color: aliceblue;
+    max-width: 700px;
+    margin: auto;
+}
+.Contact ul{
+    padding-bottom: 10px;
+    list-style-type: none;
+}
